@@ -10,10 +10,12 @@ To design and implement an automated attendee management and performance-monitor
 ## Tools & Technologies
 
 i. Google Sheets
+
 ii. Google Apps Script
+
 iii. Looker Studio
 
-Calculated fields and KPI development
+iv. Calculated fields and KPI development
 
 ## Backend Implementation
 
