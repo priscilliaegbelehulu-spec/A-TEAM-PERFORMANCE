@@ -1,4 +1,5 @@
-# A-TEAM-PERFORMANCE
+# A-TEAM-PERFORMANCE (Internship)
+
 An interactive performance dashboard to monitor First-Time Attendees (FTAs), track follow-up progress, evaluate team workload, and measure member engagement.
 ## Project Overview
 
@@ -27,9 +28,9 @@ iii. Automated Assignment: Assigns FTAs to active team members based on current 
 
 iv. Assignment Logging: Records assignment details, timestamps, and assignment status.
 
-v. Email Automation: Sends welcome emails to FTAs and assignment notifications to team members.
+v.  Email Automation: Sends welcome emails to FTAs and assignment notifications to team members.
 
-vi.  Feedback and Load Management: Processes follow-up feedback and supports workload tracking.
+vi. Feedback and Load Management: Processes follow-up feedback and supports workload tracking.
 
 vii. Master Table Generation: Integrates attendee, assignment, team member, and feedback data into a consolidated reporting table.
 
@@ -39,22 +40,30 @@ viii. Refresh Metadata: Automatically updates the dashboard's last-refreshed tim
 
 * **21 FTAs recorded, with 14 M&G attendances and a 67% follow-up completion rate**.
 
-61.9% of FTAs were classified as “Not Yet” regarding membership interest.
+* **61.9% of FTAs were classified as “Not Yet” regarding membership interest.**
 
-Friends were the leading referral source, accounting for 7 FTAs.
+* **Friends were the leading referral source, accounting for 7 FTAs.**
 
-Team assignments ranged from 1 to 6 FTAs per member.
+* **Team assignments ranged from 1 to 6 FTAs per member.**
 
-Experience ratings: overall 4.3, worship 4.4, and Word 4.6.
+* **Experience ratings: overall 4.3, worship 4.4, and Word 4.6.**
 
-Average response time was 65.14 hours.
+* **Average response time was 65.14 hours.**
 
 ### Recommendations
 
-Improve follow-up completion and response speed.
+i. Improve follow-up completion and response speed.
 
-Develop targeted engagement strategies for undecided attendees.
+ii. Develop targeted engagement strategies for undecided attendees.
 
-Balance assignments based on workload and capacity.
+iii. Balance assignments based on workload and capacity.
 
-Strengthen data quality and standardize KPI calculations.
+iv. Strengthen data quality and standardize KPI calculations.
+
+## Skills Demonstrated
+
+Data cleaning, data integration, data modelling, backend workflow automation, Google Apps Script, email automation, assignment logic, calculated fields, KPI development, dashboard design, data visualization, performance analysis, and data storytelling.
+
+## Project Outcome
+
+Developed an integrated solution connecting automated backend processes with interactive reporting to help church leadership monitor attendee engagement, follow-up outcomes, and A-Team performance while identifying opportunities for operational improvement.
