@@ -19,9 +19,9 @@ iv. Calculated fields and KPI development
 
 ## Backend Implementation
 
-FTA ID Generation: Automatically generates unique, date-based attendee IDs.
+#### FTA ID Generation: Automatically generates unique, date-based attendee IDs.
 
-Team Member Management: Generates A-Team member IDs and synchronizes member records with form options.
+### Team Member Management: Generates A-Team member IDs and synchronizes member records with form options.
 
 Automated Assignment: Assigns FTAs to active team members based on current workload and maximum capacity.
 
