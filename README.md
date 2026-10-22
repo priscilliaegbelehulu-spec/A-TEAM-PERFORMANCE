@@ -37,11 +37,11 @@ viii. Refresh Metadata: Automatically updates the dashboard's last-refreshed tim
 
 ## Key Findings
 
-. 21 FTAs recorded, with 14 M&G attendances and a 67% follow-up completion rate.
+* **21 FTAs recorded, with 14 M&G attendances and a 67% follow-up completion rate**.
 
-. 61.9% of FTAs were classified as “Not Yet” regarding membership interest.
+61.9% of FTAs were classified as “Not Yet” regarding membership interest.
 
-. Friends were the leading referral source, accounting for 7 FTAs.
+Friends were the leading referral source, accounting for 7 FTAs.
 
 Team assignments ranged from 1 to 6 FTAs per member.
 
@@ -49,7 +49,7 @@ Experience ratings: overall 4.3, worship 4.4, and Word 4.6.
 
 Average response time was 65.14 hours.
 
-Recommendations
+### Recommendations
 
 Improve follow-up completion and response speed.
 
