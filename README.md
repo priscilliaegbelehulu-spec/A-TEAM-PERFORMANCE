@@ -19,20 +19,20 @@ iv. Calculated fields and KPI development
 
 ## Backend Implementation
 
-#### FTA ID Generation: Automatically generates unique, date-based attendee IDs.
+i. FTA ID Generation: Automatically generates unique, date-based attendee IDs.
 
-#### Team Member Management: Generates A-Team member IDs and synchronizes member records with form options.
+ii. Team Member Management: Generates A-Team member IDs and synchronizes member records with form options.
 
-#### Automated Assignment: Assigns FTAs to active team members based on current workload and maximum capacity.
+iii. Automated Assignment: Assigns FTAs to active team members based on current workload and maximum capacity.
 
-#### Assignment Logging: Records assignment details, timestamps, and assignment status.
+iv. Assignment Logging: Records assignment details, timestamps, and assignment status.
 
-#### Email Automation: Sends welcome emails to FTAs and assignment notifications to team members.
+v. Email Automation: Sends welcome emails to FTAs and assignment notifications to team members.
 
-#### Feedback and Load Management: Processes follow-up feedback and supports workload tracking.
+vi.  Feedback and Load Management: Processes follow-up feedback and supports workload tracking.
 
-#### Master Table Generation: Integrates attendee, assignment, team member, and feedback data into a consolidated reporting table.
+vii. Master Table Generation: Integrates attendee, assignment, team member, and feedback data into a consolidated reporting table.
 
-#### Refresh Metadata: Automatically updates the dashboard's last-refreshed timestamp.
+viii. Refresh Metadata: Automatically updates the dashboard's last-refreshed timestamp.
 
 
