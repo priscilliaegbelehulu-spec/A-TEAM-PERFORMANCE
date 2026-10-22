@@ -35,4 +35,26 @@ vii. Master Table Generation: Integrates attendee, assignment, team member, and 
 
 viii. Refresh Metadata: Automatically updates the dashboard's last-refreshed timestamp.
 
+## Key Findings
 
+. 21 FTAs recorded, with 14 M&G attendances and a 67% follow-up completion rate.
+
+. 61.9% of FTAs were classified as “Not Yet” regarding membership interest.
+
+. Friends were the leading referral source, accounting for 7 FTAs.
+
+Team assignments ranged from 1 to 6 FTAs per member.
+
+Experience ratings: overall 4.3, worship 4.4, and Word 4.6.
+
+Average response time was 65.14 hours.
+
+Recommendations
+
+Improve follow-up completion and response speed.
+
+Develop targeted engagement strategies for undecided attendees.
+
+Balance assignments based on workload and capacity.
+
+Strengthen data quality and standardize KPI calculations.
